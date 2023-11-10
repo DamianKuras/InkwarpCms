@@ -1,0 +1,5 @@
+*.sln
+diff.txt
+/static-code-analysis.txt
+.config
+.vscode
